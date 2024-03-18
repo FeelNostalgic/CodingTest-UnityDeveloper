@@ -25,7 +25,7 @@ Create a save system whereby user actions can be recorded, saved and replayed la
 ## Wireframe 1
 ![image](https://github.com/FeelNostalgic/CodingTest-UnityDeveloper/assets/62141854/3d145929-af1a-4c0a-b6fd-f80023453f36)
 
-## WireFrame 2
+## Wireframe 2
 ![image](https://github.com/FeelNostalgic/CodingTest-UnityDeveloper/assets/62141854/fa7856bc-8bbb-4b6d-adb9-71a16a911ff7)
 
 
